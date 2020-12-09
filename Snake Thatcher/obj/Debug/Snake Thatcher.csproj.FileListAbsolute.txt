@@ -1,0 +1,10 @@
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\bin\Debug\Snake Thatcher.exe.config
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\bin\Debug\Snake Thatcher.exe
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\bin\Debug\Snake Thatcher.pdb
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake Thatcher.csprojAssemblyReference.cache
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake_Thatcher.Form1.resources
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake_Thatcher.Properties.Resources.resources
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake Thatcher.csproj.GenerateResource.cache
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake Thatcher.csproj.CoreCompileInputs.cache
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake Thatcher.exe
+C:\Users\palla\Documents\Coding\shisharp\Snake Thatcher\Snake Thatcher\obj\Debug\Snake Thatcher.pdb
